@@ -11,3 +11,18 @@ jeżeli chcemy uzyskać to i to to z doświadczenia wiemy że takie to a takie m
 w informatyce jest jakby lekko inaczej czy trochę inaczej lekko błędne rozwiązania są całkowicie błędne i niedopuszczalne w informatyce i tylko kwestią czasu jest że coś lekko błędnego prowadzi do całkowitej totalnej katastrofy
 
 przykładowo jeśli ktoś nie doświadczył systemów komputerowych z uptimemami rzędu miesięcy czy nawet lat to nawet sobie nie jest w stanie wyobraźić do jakich spustoszeń mentalnych prowadzi kontakt z maszynami które się wieszają po kilka razy w tygodniu
+
+
+fizyka zajmuje się niedeterminizmem informatyka determinizmem czyli fizyka zajmuje się tym jakie programy komputerowe nie zostaną napisane i w jaki sposób nie zostaną uruchomione
+
+czyli fizyka zajmuje się algorytmami heurystycznymi i to co w fizyce nazywa się prawami to nie są prawa ale właśnie algorytmy heurystyczne i nie jest tak że wcześniejsze tzw prawa fizyki są obalane ale są wymyślane heurystyki o innych parametrach
+
+często te nowsze heurystyki są matematycznie bardziej skomplikowane co też jest istotne samo w sobie więc te starsze niby mniej prawdziwe teorie fizyczne też mają urok tak jak i urok mają np celowo konstruowane wolne algorytmy sortowania w informatyce
+
+w informatyce są takie obszary heurystyczne i to jest kompresja stratna, to są np sat-solvery to są kompilatory w jakimś sensie to są algorytmy optymalizacyjne do liczenia tras to jakośtam jest trochę podobne do fizyki tj to nie są optymalne rozwiązania
+
+one są tylko jakośtam w pewnym sensie poprawne względem jakichśtam założeń które same w sobie mogą się okazać dyskusyjne np może się okazać że jakichś technik kompresji używać nie chcemy bo np nieoczekiwane efekty których nie chcemy powodują
+
+llmy to takie może trochę ciekawe programy to kompresji stratnej tekstu tzn do kompresji i do kompresji stratnej i miksowania tekstu trochę   może to jest też trochę jak word2vec tylk tyle że inna przestrzeń np zdań zamiast słów i liczby liczymy jakby
+
+względne odpowiedzi między pytaniem a odpowiedzią wejściem a wyjściem takie spojrzenie np  pytania i odpowiedzi  czy zapytania i wyjscia  to troche takie antonimy
