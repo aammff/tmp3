@@ -1,2 +1,2 @@
-haskell keyword data
-haskell keyword type
+haskell keyword data  "cache invalidation" (not really invalidation, cache construction/algorithm)
+haskell keyword type  "naming things"
