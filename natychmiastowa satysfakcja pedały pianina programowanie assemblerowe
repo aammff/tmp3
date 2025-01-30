@@ -165,3 +165,24 @@ cpo da co dalej można taki wielordzeniowy procesor jeden na drugim zrobić usta
 co można zrobić no np zasymulować trójwymiarową reakcję żebutowa tzn biełu m biełousowa - żabotyńskiego konkretnie myślę że by to wyglądało jakby na jakimś holograficznym jakby
 
 tzn nie holograficznym no trójwymiarowy projektor jakby się robi z czegoś takiego bardzo łany chyba
+
+
+czasami sie mówi że człowiek to nie rozumie funkcji wykładniczej czy logarytmu tak jakby wszystko na świecie miało o d tego zależeć ja myślę że jenak bardziej chodzi tu o funkcje
+
+rekurencyjne i jakby to się trochę ocz odzwiercidela w mikroprocesorach bo jakby mamy te instrukcje do wykonywania funkcji rekurencyjnych rekursywnych to jest CALL na x86
+
+do liczenia logarytmówi wykładniczej też saą ale to jest kompro koprocesor matematyczny i jakby to nie od razu było jakby c CALL nie było na jakichś innych architekturach czy starszych
+
+mikroporprocesorach to można zaemulować nie p nie ma problemu ale CALL jest bardziej podstawowy od jakiegośtam a nawet nie pamiętam mnemonika nie będę udawał udawać a tamte to można
+
+zaemulowacć jakby też   no i tu się okazł okazuje że jest jakby taka struktura danych specjalna która którą każdy mikroprocesor jakby akceleruje i to się stos nazywa  nawet
+
+i więcej stos jednocześnie jest akcelerowany bo np mamy nie tylko CALL PUSH i POP ale też STOS STOSB STOSW LODSB LODSW jakby widać od a razu drugi stos mamy supportowany w instrukcjach
+
+s śmiesznie  także jakby kto b pytał ile jest stosów w x86 jakimśtam starszym to się moży może wydawać że jakby jeden ale wychodzi że może i nawet dwa jak się spojrzy szerzej
+
+albo nawet i trzy bo jednak tzn nawet i cztery jeden do kodu ten z selektorem CS czy tam rejestrem segmentowym jeden do stosu defaultowego SS no i dwa te dodatkowe DS i ES
+
+zdaj się że są jeszcze pedały do zmiany selektorów domyślnych i wtedy nie wiem jak to liczyć i czy to zadziała ale do sprawdzenia bo są jeszcze FS i GS i nagle się tego robi
+
+no nie wiem jak to działa ale jak widać nie jest ot oczyeistw e wcale jak ktoś uparcie będzie szukał dodatkowych stosów to znajdzie na x86 dlaczego nie można i tak 
