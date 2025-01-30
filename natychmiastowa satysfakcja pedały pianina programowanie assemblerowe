@@ -28,3 +28,100 @@ czyli ta instrukcja ma taki numer czy jakby kod pocztowy t no i sa tez inne inst
 tych instrukcji i akurat ata ta instrukcja 144 czyli 0x90 nazywa sie NOP od no operation zdaje sie  czy tu wjae wjezdza spiuske spisek antyszczepionkowy gdzie nopem nazywa sie niepozadane odczyc odczyny
 
 poszczepienne  akurat tak samo jak najpopularniaejsza instrukcja mikroprocesora najpopularniejszego do nic nie robienia  czy to jest spiske czy przypadek no jakby to powiedziec 
+
+
+no w sumie jednak ten procesor costam robi bo to co robi to patrzy jaka instrukcja jest jakby po niej i znowu probuje wykonac wiec tak instrukcja NOP nic nie robi jest faktycznie rownowazna instrukcji
+
+zwieksz adres aktualnie wykonywanej instrukcji o jeden wiec troche nasciemnialem ale tylko troche. w kazym razie no ile trwa wykonanie takie instukcji mozna przyjac niesciemniajac za bardzo ze mniej
+
+wiecej jeden tzw takt czyli jesli procesor jest taktowany tym jednym gigaherzem to tak niejakosbardzosciemniajac mozna powiedziec ze zdazy jak jest w pamieci tych instrukcji ten miliard to tak miliard
+
+razy zdazy nic nie zrobic ten mikroprocesor faktycznie to sie sprawy maja nieco inaczjej bo procesor bywa ze jest sprytny i jest w stanie kilka instrukcji ktore nie zaleza od siebie wykonac rownolegle
+
+a taka insturkcja jedna nop NIP NOP NOP nie zalezy od drugiej w jakis szczegolny sposob a to wplywa na przyspieszenie sprawy a na zwolnienie wplywa to ze pamiec z ktorej te instrukcje sa wczytywane
+
+do mikroprocesora jest wolniejsza najczesciej od mikroprocesora i jakby jak odpowiednio szybko te instrukcje sa pobierane to jakby moze to nienadazac i bedzie wolniej niz by sie wydawalo ale to bardzo
+
+roznie bywa rozne sa szybkosci pamieci przepustowosci tych szyn wszystkich rozne wielkosci cache por procesora takie historie 
+
+
+dawh9 tej7 t dawh9 tej7 dawno temu pdo pod dosem z czy pod windowsami mozna bylo odaplic command.com  a w tam ebug eb debuge debug.exe i wa faktycznie te instrukcje wpisywac i wykonac i miec te satysfakcje
+
+instrukcji jest wiecej ile dokladnie nie pamietam ale tak pi razy oko ze sto tyle ze one sa niektore podobnie podobne do siebie wiec jakby nie ma ich niewiadomo ile i jakby latwo zapamietac niektore s to 
+
+sie dosc smiesznie nazywaja jak nie  no np  sa instrukcje takie kolejowe np SBB  te nazyw instrukcji nazywaja sie mnemonikami  instrukcji PKP raczej nie ma z tego co sie i orientuje 
+
+sa tez 
+
+
+sa tez instrukcje typu pedaly piania pieanina aha bo jakby w procesorze sa rejestry czyli jakby klawiatury pienin pianin czy organow n oi on no i one sa roznej dlugosci n te nowsze procesory maja dluzsze te
+
+rejestry dluzsze klawiatury. ile tych klawiatur maja no po kilka zalezy od procesora czasem i kilkanascia naet albo i wiecej.  te pierwsze popularne x86 mialy klawiatury dlugosci szesnastu klawiszy nie za dlugie
+
+potem sie pojawily 32 klawiszeowe a teraz jakby popularne saa 64 bitowe cyzli tylko klawiszeowe ja tam sie boje tych wiekszych nawet sobie nie moge wyobrazic takich wielkich liczb a te liczby 16 bitowe to mam wryte
+
+wybite w pamiec wszystkiego potegi dwojki jak leca praktycznie czyli o od o 0 1 2 ... 65536    16 777  nie  16 768 216 a o dobrze bylo walnalem sie 16 777 216 to tez pamietam bo to 0xFFFFFF no ale slabiej ale tez
+
+tyle kolorow w pewnym moemcnie sie zrobilo wczesniej bylo mniej kolorow 
+
+
+jak sie chce wcisnac jakies kol konkretne klawisze to sie zapisuje to tak np  MOV AX,1  co oznacza wcisniecie pierwszego klawisza na klawiaturze ax tak sie nazywa a skad wiadomo ze MOX  MOV AX,!  MOV AX,1 a nie
+
+MOV 1,AX  no okazuje sie ze sa dwie konwencje niestety i jedna z nich jest popularniejsza bardziej ktora to juz nie pamietam chyba ta pierwsza bardziej jest popularna ale to do sprawdzenia.
+
+skad te nazwy instrukcji i te wszystkie to sa takie ksiazeczki byly dystrybuowane z mikroprocesorami takie instrukcjie obslugi jak do kucheniki czy cos w tym stylu czy do telefonu no albo ak kalul kalkulatora
+
+
+no i np co zrobi instrukcja MX  MOV AX,AX no zrobi tyle co NOP mniej wiecj no ale nie pamieatm czy dokladnie tyle w wk kazdym razie ustawi na rklawiaturze ax to co juz bylo na klawiaturze ax no i nie wiadomo
+
+co z falga flagami vo bo sa flagi w mikroprocesorze takie kciuki jakby ktore sie ustawiaja np jesli wyjdzie zero w wyniku to jest specjalna flaga ktora sie ustawi ze wyszlo zero jest takich flag troche nie 
+
+za duzo tez jest flaga jak sie przekreca licznik czyli np jak sie odejmie jeden od zera to sie przekreca i sie flaga ustawia i mozna sobie sprawdzic
+
+
+jak chcemy s zeby procesor w pw wpadl w petle nieskoczona do  to sie da  do tego sluzy instrukja instrukcja JMP  JMP jak JUMP czyli skook no i podaje sie adres gdzie ma skoczyc czyli jakby poobnie do instrukcji
+
+NOP ktora jakby skacze zawsez o jedno pole do przeodu to instrukcja JMP tez skacze ale sie podaje o ile pol do przeo przodu allbo do tylu albo podaje sie konkretny adres zalezy sa d rozne tzw tryby adresowania
+
+czyli jak sie poa s poda s adres tej instrukcji JMP to dostajemy ladny krotki program ktory jakby zuzywa prad i nic wiele poza tym ale wymaga bardzo malo pamieci no albo jeden albo dwa bajty cos w tym stylu nie pamietma
+
+
+jest jeszcze jdnda instrukcja w ten desen instrukcja HLT  ktora jakby robi cos podobnego tzn bez kombinowania ona naprawde zatrzymuje procesor i procesor czeka a ana c na an a na co czeka no czeka na tzw przerwanie
+
+ktore nadejdzie albo nienadz ne nienadejdzie  przerwanie to jest takie jakby w uproszczeniu taka nozn nozka na procesorze k gdzie jak sie pojawi jakistam stan odpowiedni to proceosor uzna ze faktycznie jest przerwanie
+
+i wtedy np nie wiem wykona sobie juz nastepna instrukcje i przestanie czekac w faktycznie jest to niecpe pra bardziej skomplikowane bo sa jakiby takie specjalizowane uklady o do przerwan programowania no 
+
+
+no na naprawde wiele psosob ow mozna nic nie robic przy pomoc y mikroprocesora no jak moze przy szydelkowaniu na naprawde iw wiele sposobow mozna te oczka robic i obszywac
+
+aha instrukcja tpyu pedal pianina to jest instrukcja np REP  czyli jakby napisac REP NOP to toak jakby nacisnac pedal pianina i jakby potem nic nie robic i to spowoduje costam  no akurat sie wykona to NOP
+
+CX razy z tego co sie orientuje pamietam a jest wiecej takich prefixowych pedalowych instrukcji  np instrukcje do zmiany rozmiaru klawiatury z 16 na 32 albo w druga strone tez takie soa sa
+
+
+co fajnego ze wszystkie mniej wiecej mikroprocesory synchroniczne to sie w ten sam sposob programuje ze jak sie nauczy jeden procesor programowac to mniej wiecej wszystkie sie juz umie tylko sie inaczje instrukcje
+
+nazywaja co innego robia c i jinne zestawy tych rejestrow ale to jest podobnie   te graifczne mikroprocesory akceleratory j to jakis o jakos inaczej dzialaja nie wiem jak ich nie potrafie programowac \\
+
+ze smiesnzych rzeczy to jakby programowanie w assemblrze nie jest bardzo popularne raczej wiecej artystyow w tym prorgramuje niz jakcichtam szawodowcow byc moze kto wie  ale tez se zeby bylo smieszniejs
+
+zdarzaja sie programisci ktorzy assemblerzea s assemblerza nie znaja jak to jest mozliwe truno pwoiedziec i jak oni programuja co oni sobie wyobrazajaz ze co sie dzieje w komputerze to ja nie wiem ale tak jest
+
+
+natomiast mozna sie zastanawiac no dobrze ale co w tym mikroprocesorze sie dzieje ze one on te instrukcje pr potrafie potrafi wykonywac i to nie jest glupie pytanie i jakby tu sie sprawy kompolikuje komplikuja troche
+
+bo to tu jakby trzeba sie konkretnie znac na wyszywaniu roznych wzorkow z tranzystorkow  sa do tego programiki rozne symulatory a mozna tez w takich specjalizowanych programach jezykach programowania wyszywac to sie 
+
+tam potem testuje na takich jakby emulatorach fpga sie nazywa albo sie to jakby metodami takimi jak no jakby sie te nie wiem jakies no jakby sie drug no costam sie robi no jakos tam te klisze z czy nie wiem jak sie te
+
+procesory tam robi wtyrafia jno ajakos tsie robi ze te fwarstwy rozne sie pojawiaja tak jak sie maja pojawiac i razem to jsie on no oni to jakos robia  to raczej dobrze robia o ile maja te plane projekty bezbledne 
+
+to da tam juz d sie dobrze robi to jest opanowane t i to sa te procesy typu ilestam nanometrow to jest jakby taka gestosc tych wzorkow z tranzystorkow
+
+
+typowo w takie rzeczy to sie bawia na i no to sa jakby inne grupy ludzi g ktorzy sie bawia w ukladanie programowa a inne grupy ludzi sie bawia w ukladanie tranzystorkow no ale wypada jakby wiedziec troche z tej i z tamtej
+
+strony ob bo inaczje jakby sie nic nie we wie.  no mozna zapytac np czy akurat zawsze ma byc tylko zero i jeden i odpoweidz jest chyba dosc ciekawa bo sie okazuje ze moze niekoe niekocznie i czasami np moze byc lepiej
+
+zeby bylo -1 0 1 albo cos w tym stylu roznie bywa  to moze miec rozne nie zawsze oczywiste konsekwencje dla kazdego  matematycznie to jakby wszystko jedno jeden pies ale jakby artystycznie i realnie to juz inaczej jest
