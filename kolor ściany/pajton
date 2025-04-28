@@ -1,0 +1,36 @@
+pajton
+
+no co to jest pajton
+
+no na przykład w pajtonie nie ma modułów tj wszystko od wszystkiego zależy każdy plik od każdego każdy znak od każdego
+
+tzn te importy to nie są moduły to jest takie tzn tak naprawdę jest dostęp z każdego miejsca w kodzie do każdego innego miejsca w kodzie
+
+tj kod pythona pajtona może zmienić w locie dowolne miejsce 
+
+i tam zda   tzn o ile się orientuje nie wiem ale  mo 
+
+tzn tam jest maszyna m bajtkodowa i jakby interpreter kodu i wiec tak naprawde sa jakby te dwa nie do konca jezyki tylko takie konwencje notacyjne jakby
+
+ktore tez moga sie zmieniac z wersji na wersjie no i jakby napisy pisane w jednej konwencji i moga zmieniac te druga 
+
+czyli przykladowo moze na tzn nei przykladowo mozna po prostu napisac cos w rodzaju programu tzn pseudokod w m w bajtkodzie pajtonowym i to nie bye 
+
+tzj bez odpowiednika tego pseudoskryptu pajtonoweo na przykald      wiec to sa jakby to jest tja jakby para  pseudobajtkod pseudoskrypt
+
+w zwiazku z czym nie ma czegos takiego jak kompilator pajtona na przyklad b tj   tj kompilator produkuje cos co jest proporcjonalne w do wielkosci wejscia
+
+czyli te no to jae jest cos w stylu maszyny wie wirtualnej dźawy  tyle że jakby w stylu bardziej dynamicznego tam wartościowania  ð dźawa bardziej te statyczne typowanie jednak ale
+
+w j w ð dźawie chyba też można sporo zmieniac ale mniej jakby w locie w trakcie działania programu
+
+natomiast jakby dźawa pierwotnie nie była dostarczana z interpreterem choć mogła być takim replem a python pajton tak nao no taka różnica
+
+to oczywiście jakośtam do s lispa też podobne zdaje się ten pajton  
+
+
+no można się dp spodziewać że jakby je język programowania to jest coś tkaiego że może powstać kompilator nawte jeśli nie ma
+
+czyli jakby pajton nie jest językiem programowania w sensie powż powyższej definicji
+
+no to jest jakby taka mocno konfigurowalna maszyna wirtualnea wirtualna
