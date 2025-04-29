@@ -1,0 +1,11 @@
+iid interaktywnie imperatywnie deklaratywnie
+
+imperatywna czesc programu to ta ktora steruje zajmuje sie jakby urzadzeniami i jest z zalozenia niepodatna na optymalizacje upraszczanie zmiany szeregowania itd itp
+
+deklaratywna czesc programu to tak to tak to ta ktora jakby obliczenia symboliczne wykonuje i jest z zalozenia podatna mozliwa do optymalizacji uproszczen zmian szeregowania itd itp
+
+
+deklaratywna czesc programu mozna jako inny typ w haskellu zaimplementowac niz IO a      imperatywna czesc programu bedzie w haskellu miala typ IO a     
+
+interaktywne programowanie to zmiana stanu urzadzenia przez czlowieka   no moze byc tez kot ja jak przejdzie po klawiaturze to kot tez cos moze zaprogramowac
+
