@@ -1,0 +1,30 @@
+scheme
+
+scheme jakiś tam lisp bardziej popularny tj dialekt z lispowej rodziny bardziej popularny nie ma tam chyba tyle czy wszystkiego c o w lispach
+
+za to jest może bardziej poukładane w lispach raczej wszystko co tylko sobie można wymyślić jest ale w lispie prawie nic nie pisałem
+
+
+scoping s zdaje się jest inny niż w lisp w scheme zamiast dynamic jest local nie pamiętam czy dobrze nazwy są tj bardziej popularnie jest
+
+z w cudzysłowiu albo i nie wad jest odśmiecarka
+
+
+sa są różne kompilatory scheme jedne szybci szybsze od drugich chicken scheme stalin różne takie
+
+
+dr scheme było kiedyś takie środowisko bardziej gui graficzne i edukacyjne pote zmi m potem zmienili nazwę na racket czy coś
+
+tam backgammon pisałem na zajęcia
+
+
+ogólnie nawiasy d dużo nawiasów okrągłych jednych w drugich
+
+scheme dr scheme pokazywał który napis odnosi się do którego jakośtam pomocne
+
+
+co tam w klasyczny problem zagadnienie foldl fold left vs fold right foldr który kiedy czym się różni reszta nie dużo trudniejsza
+
+
+niektóre implementacje mają call call-with-current-continuation czy coś to jest taki kamień l milowy bardzo ważna funkcja
+
