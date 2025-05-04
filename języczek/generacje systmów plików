@@ -1,0 +1,80 @@
+generacje systemów plików
+
+krótki przegląd systemów polikó plików jakichś wspomnień czy czegośtam
+
+
+no fs systemy plików typu no fs czyli jakby ich nie ma jakby coś podobnego może do protokołów modemowych tj jakby tylko sam zapisu format jakby cooś na taśmie naa przykład
+
+na atari jakby były taśmy i tam ludzie pisali numerek z magnetofonu mniej więcej pozycja gdzie się zaczynał program gra utwór na taśmie i trzeba było przewinąć w odpowiednie
+
+miejsce wcześniej upo upewnić się czy w dobrą stronę kaseta włożona jakby dwie strony   z kolei dyskietek chyba się nie wsadzało na dwie strony tylko głowica jakby b chyba była
+
+z dwóch stron od razu
+
+
+dys dys sus systemy typu fat tam jakies fat i tu n jka jakis c numerek ktory chyba liczbe nie wiem klastrow chyba to sie nazywalo okreslal w tabeli alokacji chyba jakos tak
+
+doszlo cyba chyba do fat trzy dwa a moze i n i dalej zeby wiecej niz te a nie pamietam cztery giga zy czy cos  co tam na facie  dalo sie i ozncz oznaczac jakby uszkodzone 
+
+sektory czy costam  pierwsze faty to tamm osiem plus trzy nazwa pliku jakies atrybuty glownie ignorowane przez wszystkie programy  tam pare kki kilka inch ich bylo
+
+
+troche czyms obook poodbnym byl format czy tablica partycji tam poczto poczatkowo chyba na pece ze cztery wpisy miejsca na przy czym moglybyc wpisy rozszerzone zawierajace jakby
+
+inne pod wpisy  byl taki ciekawy program m partition magic pod dos potem windows ktory w locie umozliwoial zmiane zmiany wielkosci partycji i p rozszerzanie mziane rozmiaru
+
+tych systemow plikac plikow na tych partycjach  nawet chyba nigdy mi sie nic nie zepsulo nie posypalo jak tego uzywalem takze calkiem niezle to chodzilo
+
+
+dalej systemy typu ext ext2 chyba pierwsze ntfs no to tam co tam tam juz chyba pliki mom mogly miec dluzsze nazwy  co tam hard linki soft linki linki symboliczne a user name
+
+group name  jakies  atrybuty dostepu octal format trzy cyfry  plus tam jakies dodatkowe suidy sgidy jakies takie  no i tam nie wiem czy juz byly xattrs czy jeszcze nie 
+
+
+koe kolejna jakby generacja to xhy cyba jakies xfs jfs reiserfs tego typu jakby tam sie chyba append ony only replay log pojawial ktory jakostam zwiekszal bezpieczenstwo z calk calej
+
+c zabawy w przypadku o awarii zasia zasilania tak to pamietam nie wiem czy dobrze   moze jakes jakies inne bajery rozszerzea rz rozszerzenia
+
+
+koeljna generacja jakby chyba to btrfs i zfs  tam juz sie pojawiaja zaawansowane ficzery typu deduplikacja jakies to bardzo przyadtne juz sprawdzanie czy tam sie jakis bitrot nie zrobil
+
+czyli wszystkie plik i moglybys moglybyc czy byly haszowane sumokontrolowane i dalo sie sprawdzic czy sie nie popsulo g niewiadomo kiedy juz  tez jakies robienie snapshotow takie rzeczy
+
+
+gdzie gdzies obok to jakies pytjanik large volume manager tj  robienie takich wirtualnych duzych dyko dyskow z kilku mniejszych przykladowo jakies takie raidopodobne rzeczy tez szyfrowanie
+
+jak ktos chcial 
+
+
+kolejny pomysl to juz sa systemy plikow sieciowe mniej lub bardziej rozproszone  czasami  tzn juz sie pojawia tam content addressable   no i tu internetowy ipfs np przykladowo 
+
+
+gdzies tam z boku sa takie specjalistyczne systemy plikow np iso cyb chyba dziewiec szesc szesc zero do cdromow    albo jakes jakies  systemy plikow do live cv cd live usb  jakies niew wiem
+
+squash fs czy costam  takie bardziej read only szyfrowane od razu  tez moze cos do init ram fs czy cos
+
+
+jeszcze inne pomysl to s takie wirtualne systemy plikow do linuxa np jest proc fs czyli nie powiazane z zadnym fizycznym nosnikiem a tylko jakby jakas projekcja roznych tabel systemu operacyjnego
+
+
+j3wada jescz jeszcze inny pomysl to w takie w np fuse do linuxa tam jakby mozna w userspace sobie napisac system plikow zeby sie wyswietlal dalo uzywac jak kazdy nn inny system plikow czyli przykladowo
+
+mozna sobie jakiegos tara czy innego zipa jakby wyswietlic zobrazoawac jako zwykle pliki taki bajer    albo cos zupelnie dya dynamicznego
+
+
+jest popularne zdanie ze w unixach wszystko jest plikiem  no na pewno duzo rzeczy jest plikiem przy czym te pliki to sa roznego typu bo albo plik albo katalog albo pipe cyzli rurka  albo urzadzenie 
+
+nie wiem czy cos jeszcze  ale oprocz tego sa przykladowo interfejsy sieciowe   albo takie rozne jakby ustrojstrwa obiekty ipc   
+
+
+kwestia nazw zn nazewnictwa kiedys sie pojawila takia taka a afera zeby blacklist whitelist nie nazywac tak ale inaczej np accesslity blocklisty roznie sie to przyjelo podobnie mozna rozwazac nazewnictwo
+
+plikowo katalogowe tam jest parent directory child directory to jest slabe imho  jak juz to jest mother directory ew daughte daughter direcotry tego typu numery jakby no bo jak inaczej jak to inaczej ponazywac
+
+no jakis upper level nie wei wiem descentdant descendand desc asc no jakos tam sie da
+
+
+
+w kwestii procfs to tam widac procesy uzytkownikow userow poodpalane jakies pidy itd itp i no jakby standardowo wszystko jest widoczne dla wszystkich ale sa takie pacze z czy m pta patche zmiany konfiguracyjne
+
+zeby bylo jakby bardziej private privacy czy to jest sens uzywac czy nie no zalezy jaki sie chc czy chcialo miec system
