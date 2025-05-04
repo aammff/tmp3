@@ -1,0 +1,147 @@
+prolog online
+
+
+trafiłem na fja fajny dokumnent implementację prlo prologu turbo prolog z tej samej stajni tzn ze stajni m borland io oni tam sporo różnych kompilatorów kiedys kiedyś wydawali
+
+no i spos spośród różnych takich języków mniej lub bardziej zaawansowanych to prolog cechuje się względnie maj małą widocznością przy jednocześnie dużej ważności i z czego to wynika
+
+
+no więc tak można zauważyć że managery pakietów które są jakby wszędzie te s dependency solvery to tam jest tak ten algorytm proog prologowy mniejj lub bardzije implicite albo explicite
+
+
+więc to nie jest tak że prologa nie ma ale jest mało widoczny a dlaczego jest mało widio widoczny
+
+
+niestety dz kilku przyczyn oto one
+
+ minus  niestety t ta jakby relacyjność sprzyją wymyślaniu głupich przykładów nie należy  z żadnych przykładów na ludziach predykatów podawać bo jak tak się dzieje to zaw  zaraz ktoś 
+
+    próbuje tam wam wstawić to gówno szatańskie o nazwie ojciec i  na i nawte w książce the art of prolog która wię widać że całkiem ciekiawie nj jaest napisana przez fachod fachowców
+
+     to tam są te numery z tk z których się oni nabijają podając taką uwagę na boku o inces inceście  incestous czy coś takiego można znależźć  więc sprawa ma się tak że po prostu 
+
+     ten język został ubity właśnie w ten sposób głupimi przykładami nie ma takich przykładów w tutorialach o innych językach programowania por powaga to jeszt e jest przyczyna powo powód
+
+     jak ktoś jest wrażliwy wyczuwa na jakiej zasadzie myśli w głowie biegajaą tao to takie przykłady wywołują momentalnie zakleszczenia takie współbiegoweg i jest koniec myślenia i koniec
+
+     jakby programowania i jakby to jest jedno pokolenie i dalej język jyż już grzęźnie        
+
+
+     minus kolje kolejny    ten język powastał jakby w innnym środowisku tak takim mniej opensourceowym niź unixy  i niestety bardzo fa czy stety dla informatycznych zagadnienin jest żeby
+
+     to było wszystko free open software czy to jest mit czy gpl ic czy jeszcze coś innego może jest tak że mit czyli as is to jest też gpl to się nie wydaje że nie ale jednak
+
+     jeśli się chce żeby coś trwało było popularne używane to koniecznie myś musi być opensource free software inaczej nikt tego nie będzie tykał patykiem nawet bo wszystkie takie closed source
+
+     projekty to jest s cmentarz   takie mam doświadczenia wszystkie programy free software open source których uz używałem to są jakby nadal aktualne ta wiedza się niedezaktualizuje natomiast
+
+     wszystkie closed source których używałem to już tylko w muzae muzeach techniki albo jakieś takie slo zloty stao starosi staroci takich closed source sot software unikać jak u ognia to jest
+
+     cmenatrz i nie na leży myśleć inaczej
+
+
+     minus kolejny jakby    jak isę czytea te różne opisy dokumentacje to tam jakby są takie ślady takie takiego zagadnienia ontologicznego czym jest prolog i tam się próbują jakby przelicytowywać
+
+     w tym zakresie co jest związane z poprzednim puk punktem   myślę że rozwiązanie jest takie jak ki lip lispowcy mo podają że jest to d rodzina języków po prostu  imho niezłą h charakterzyacją
+
+     takiej rodziny jest jakby sposób zapisu  predykatu odwracania listy z akumulatorem  wsyzstkie języki w których takie coś jest w ten sposób zapisywane to są prologi bo taki sposób programowania
+
+     jest jakby nowatorski i niespok niespotykany gdzie indziej     inną charakteryzacją jest jakby składnia po sposób zapisu konwencje niota notacyjne że tam przykładowo jest ten dwukropek i p minus
+
+
+     co jeszcze kwestia teggo czy interpreter i kompilator jest jakby edukacyjny czy to do zastosowacn tak zwanych profesjonalnych  chodzi o to że ta to jest zagadnienie zwiazane z poprzednim punktem
+
+     jesli soft nie byl opensourceowy to tju juest jest problem bo jest kombinowanie odnosnie tego co pokazac a co c nie z bebechow interperetera i kompilatora  wiec open source roziwazuj te ten problem
+
+     i dokumwntacja jest lepsza
+
+
+     tzn w haskelu to dobrze widac raport haskell dziwiec osiem to jest opisuje dosc jakby jasny i prosty jezyk i sa tego potem interpretery i kompilatory i jakby latwo to zrozumiec ale tez t jest dostepnych
+
+     mnostwo multum rozszerzen w tym bardziej zaawansowanym od hugsa g h c  i jakby w ten posobo mozna tez chyba z sobie z by bylo z prologiem poradzic ze nie m probowac robic jednego super interpretera i kompilatora
+
+     tylko mozna kilka roznych o jakby roznych mocach i s zlozonosciach i wtedy jakby mozna zaczac zaznajamianiae sie z najlatwiejsza najprostrsza najmniej skomplikowana wersja i ewentualnie jesli ktos chce szybciej
+
+     albo wiecej bajerow to mozne moze uzyc bardziej zlozonego skomplikiokowanego interpetrata kompilatora
+
+
+
+     co tam ciekawego jeszcze ta wersja jakby podstawowa prologu prologa jest spoko natomiast sa tkaie predykaty ze tam sa jakby przypominaja skop skomplikowaniem jakies exceptions jakies throwy jakies call with
+
+     current contiunation i jakby opisywanie tkaich rzeczy semantyki czegos takiego zrozumienie czegos takiego no to juesz juz jest jakby tc troche zaawansowany temat  to znczy co
+
+     w haskellu tego typu rzeczy sa jaby jakby ladnie pi poukladne jako biblioteki po prostu i daje sie pisac jakies wieksze rzeczy uzywajac czegos takiego to jest tam typowane i bepiz bezpieczne w sensie
+
+     ze sie trudno raczje zgubic
+
+
+     prolog takie rzeczy jakby ma tez natomiast to jest tak w s zwiazane z ty m z tym minimalistycznym stylem  tzn prolog to jest taki minimalistyczny jezyk t co jest bardzo dobre jakby do edukacji 
+
+     bo nie ma tego boilerplateu i wj jakby wszyscy wszystkie zaawansowane ficzery od razu sa nie trzeba pisac zadnych tam include import itd itepa itepae itepe natomiast co jest z tym zwiazane konsekwencja 
+
+     jest taka ze w kodzie sie latwiej pogubyi pogubic  tzn jak sie pisza cos malego albo sredne sreniego go to jeszcze sie da  ale wieksze rzeczy no to trzeba uwazac   jakby nie jest to jaki jakas tak zwana
+
+     wada tylko to jest taka specyfika jey jezyka  ze to jest troche jak z assemblerem na naprawde wszystko mozna w assemblerze napisac lacznie z samozmieniajacym sie kodem ale potem moze byc truno trudno
+
+     jakby to ogarnac     no ogolnie dokumentacja tych zaawansowanych ficzerow jest no taka ze hw h w haskelu haskellu jest jednak jakby nieco lepsza no to jest mysle ze zwiazane wlasni tn o takie zaszlosci
+
+     historyczne
+
+
+     jeszcze taka ta kwestia ze wiekszosc oi implementajci prologow sa odsmiecarkowe no to jest bardzo slabe niestety z o odsmiecarek trzb ttrz trzeba sie z z daleka trzymac j i to pisza e pisze jako osoba o doswiadczona
+
+      z doswiadczeniem w projektach i hio hobbystycznych i takich no bardizje tak zwanych pro zeby t na tae odsmiecarki uwazac i nie dotykac tego nie ruszac to jest jakby jeden z najwiekszych bledow w informatyce
+
+      ze ktostam wymyslil te odsmicearki i inni zaczeli tego uzywac   niestety jak ktos jest r wrazliwy na myslenie t o to od tego sie mozg blogu blokuje niestety
+
+
+
+      tez mozna myslec powiedzie ze sporo jezykow to sa jakby dee dsl de es ele prologowe w sensie pojawia sie w nich element inferencji typow przykladowo ktory jea jakby jest prologiem i jakby prolog jest ta tak czy tak 
+
+      uzywany moze nie jest jakos expolicte  czyli jakby proog prolog jako ten algorytm unifikacji termow plus skladnia popularna plus jakies rozszerzenia taki tak to mozna rozumiec wszystko to oparte powiazane z ta
+
+      semantyka logiczo logiczno matematysz matematyczna   ale jakby tez ciekawa sprawa ze pojawiaja sie prace sa prace o roznych interpretacjach prologu prologa nie tylok uzywajace tych ni ty nie tylko opisujace
+
+      jakby te logiczne formuly ale tez jakies takie alternatywne spojrzenia ktore tez sa ciekawe
+
+
+      co jeszz co c co jeszcze mysle ze fajnym tematem jakby sa takie implementacje nieprod nieprofejsonalne zorientowane na i optymalizacje niestandardowych parametrow czyli przykladowo mozna probowac unikac jakichs
+
+      maszyn wirtualnych na rzecz minimalizacji w8 wielkosci kodu to sa takie projekty typu jezyk programowania w boot sectorze  a tej wielkosci podstawwowa implementacjiaa albo jezy programowania na mikrokontrolery
+
+
+      co tam jeszcze west kwesita co tam ludzie chca sobie zaprogramowac czesto ccha chcca jaka jakas prosta gre na przyklad pong i a jkaby przydalby sie tot tutoriale do tego w stylu py game pythonowego
+
+      czyli elementy tak zwanego czasu rzeczywistego mysle ze sporo gier p mozna w fajnie w ten psos sposob zapisac i dostac jakby za darmo elementy ktore w innych jezykach trzebaby dodatkowo osobno proram programowac
+
+      czyli jakies ni nieinteraktywne demo z interaktywnej wersji jakies ai za darmo proste czy os cos teog typu numery
+
+
+      w kwestii edukacji prologowej to nmoz mozna od razu jakby p nie upierac sie na uzywaniu tylko samego prologa tylko zapisac jednak w jakimis innym jezyki programowania prostym ten algorytm prologowy w bo 
+
+      moze to bardzo pomoc w jakiby automatycznym intuicyjnym or rozumieniu tego wszystkie wszystkiego to   dlugosc takiej atrakcji to jest przeciez mniej niz stoo sto linijek kodu takze do zeobienia zrobienia
+
+
+      to ze wtedy powstanie jakby bardzo duzy duzo roznych implementajci czegos takiego to bardzo dobrze oo ogolnie
+
+
+      mysle ze k skutkiem ogolnie czegos takiego moze byc to ze mniej glupich programow bedzie powstawac to nie tyle chodzi o to zeby nie wiadomo ile programowa ow w prologu wpo pos powstawalo tylko zeby ogolnie 
+
+      jakosc prog produkowanego kodu byla jak najlepsza cz zeby jak najmniej dziadostwa powstawalo t do tego prolog sie bardzo dobrze nadaje
+
+
+      prolog jest niezlym jezykiem jak sie chce komus pokazac o co chodzi w programowaniu i nie splycic tego wszystkiego tam nie ma boilerplate od razu jeden kazdy jeden wiersz cos znaczy mozna uruchomic pokazac
+
+      takie instant jakby satisfaction jest bardzo wazne na poczatku   teo nie maja wszst wszystkie jezyki
+
+
+      no natomiast jakby sie chcialo pokazac jak w prologu jakis piksel namalowac na ekranie no to ja na no to wlasnie to tu tutaj jakas no moze mala luka naw w ten tym lande skejpie proologowym
+
+      ale to bez problemu mysle ktos moze napisac to nie jest wielki problem moze jakby to
+
+
+      bla bla bla be bredze wiem i co z tego przynajmiej czlowiek to wpisuje a nie jakies e el el em
+
+      el el emy to tak chyba dzialaja ze po prostu ludzie wiedza co wpisywac i jakby to co wpisuja te zapytania to sa jakby adresy jakby cos w rodzaju  takiej komunikacji miedzy osobami
+
+      
