@@ -1,0 +1,10 @@
+gc free lazy scheme
+
+taki pomysl nie wiem czy sensowny gc free lazy scheme slesz lisp dialect
+
+potem w czyms takim algorytm prologowy i moze dodac takie typy co w haskellu i moze dostac haskella gc free ze skladnia nawiasowa
+
+do przemyslenia jakby czy sie da i czy sensowne takie cos
+
+zdaje sie ze sa jakies scheme lisp gc free  ale chyba strict sa ale moze a sa jakies lazy by default 
+
