@@ -28,3 +28,20 @@ co tam w klasyczny problem zagadnienie foldl fold left vs fold right foldr któr
 
 niektóre implementacje mają call call-with-current-continuation czy coś to jest taki kamień l milowy bardzo ważna funkcja
 
+
+scheme był jest opisany opisywany w takich jakby raportach pytajnik o nazwie np er pięc er es nie pamiętam
+
+tail call optimization dość ważny chyba wymagany w implementacjach w sumie chyba w C też by mogło być czemu nie chyba nic nie stoi na przeszkodzie
+
+takie tco to jakby odróżnia to co jest w kodzie schemowym od tego co się pojawia ostatecznie w asmie w assemblerze tj jest skok jump zamiast calla
+
+przez co dzięki czemu stos nie rośnie  tzn w C chyba można goto po prostu zrobić do labela na początku fcji funkcji procki proca czy coś jakoś tak
+
+też w c w C są jakieś setjmp longjmp jakieś takie rzeczy trikowe bardizej whatever
+
+
+aha zdaje się że guix używa scheme czy czegoś podobnego także no przydatny język chyba długo się trzyma i jest ok
+
+nie ma typów w tych scheme zdaje się także niby łatwiej ale trudniej jakby albo niby trudniej ale łatwiej no bardziej e surowo czy coś
+
+kolejne liczby naturalne to chyba iota czy coś
